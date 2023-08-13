@@ -61,10 +61,10 @@ Note that, for now it only supports following crops
 
 ## How to run locally 🛠️
 - Before the following steps make sure you have [git](https://git-scm.com/download), [Anaconda](https://www.anaconda.com/) or [miniconda](https://docs.conda.io/en/latest/miniconda.html) installed on your system
-- Clone the complete project with `https://github.com/nagaraju-developer/GrowSmart.git` or you can just download the code and unzip it
+- Clone the complete project with `gh repo clone Jibranwani/GrowSmart-Agri-assistance-project-` or you can just download the code and unzip it
 - **Note:** The master branch doesn't have the updated code used for deployment, to download the updated code used for deployment you can use the following command
   ```
-  ❯ git clone https://github.com/nagaraju-developer/GrowSmart.git 
+  ❯ git clone gh repo clone Jibranwani/GrowSmart-Agri-assistance-project- 
   ```
 - `deploy` branch has only the code required for deploying the app (rest of the code that was used for training the models, data preparation can be accessed on `master` branch)
 - It is highly recommended to clone the deploy branch for running the project locally (the further steps apply only if you have the deploy branch cloned)
