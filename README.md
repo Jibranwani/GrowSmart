@@ -1,8 +1,8 @@
-# GROWSMART 🌿
+# GROWSMART 
 #### A simple ML and DL based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
 
 
-## Project Description 💪
+## Project Description 
 - Farming is one of the major sectors that influences a country’s economic growth. 
 
 - In country like India, majority of the population is dependent on agriculture for their livelihood. Many new technologies, such as Machine Learning and Deep Learning, are being implemented into agriculture so that it is easier for farmers to grow and maximize their yield. 
@@ -80,21 +80,3 @@ Note that, for now it only supports following crops
   ```
 - Open the localhost url provided after running `app.py` and now you can use the project locally in your web browser.
   
-## How to Contribute
-
-If you would like to contribute to this project, you can follow these steps:
-
-🍴 Fork the repository and create a new branch for your feature or bug fix.
-
-✏️ Make your modifications and ensure they are working as expected.
-
-💾 Commit your changes and push them to your forked repository.
-
-🔀 Open a pull request, providing a clear description of your changes and the problem they solve.
-
-We welcome any contributions, including bug fixes, new features, and improvements.
-
-🎉 Let's collaborate and make this project even better! 🚀
-
-Please let me know if there's anything else I can assist you with!
-
