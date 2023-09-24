@@ -1,5 +1,5 @@
 # GROWSMART 
-#### A simple ML and DL based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
+#### ML and DL based web-app which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
 ![Alt text](1.png)
 
 ## Project Description 
