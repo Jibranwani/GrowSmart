@@ -1,6 +1,6 @@
 # GROWSMART 
 #### A simple ML and DL based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
-
+![Alt text](image link)
 
 ## Project Description 
 - Farming is one of the major sectors that influences a country’s economic growth. 
@@ -28,7 +28,6 @@ Note that, for now it only supports following crops
 <details>
   <summary>Supported crops
 </summary>
-![Alt text](1.png)
 
 
 - Apple
