@@ -28,6 +28,8 @@ Note that, for now it only supports following crops
 <details>
   <summary>Supported crops
 </summary>
+![Alt text](1.png)
+
 
 - Apple
 - Blueberry
